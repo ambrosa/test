@@ -1,3 +1,6 @@
+
+ MASTER
+
 To build enigma2 on Ubuntu 10.04, follow these steps:
 
 0.) Consider using OE to build it for a Dreambox instead.
